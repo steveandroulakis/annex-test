@@ -1,0 +1,1 @@
+3619021d-ad33-4ebd-a17c-e81260af56d6 chunk=50MiB encryption=none externaltype=rclone name=archive prefix=git-annex rclone_layout=mixed target=steve-annex-test type=external timestamp=1469617969.223228s
